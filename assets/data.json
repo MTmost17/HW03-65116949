@@ -1,0 +1,12 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "fullname": "Tanapong Ragsapoom",
+        "email": "motzazagame27@gmail.com",
+        "password": "2143",
+        "gender": "Male"
+      }
+    ]
+  }
+  
